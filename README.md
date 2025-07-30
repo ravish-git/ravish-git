@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HireBot**
 
-- 👨‍💻 All of my projects are available at [ravish-dev.netlify.app](ravish-dev.netlify.app)
+- 👨‍💻 Few of my projects are available at [ravish-dev.netlify.app](https://ravish-dev.netlify.app)
 
 - 📫 How to reach me **ravishn5850@gmail.com**
 
